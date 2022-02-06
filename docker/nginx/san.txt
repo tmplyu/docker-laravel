@@ -1,0 +1,1 @@
+subjectAltName = DNS:local-laravel-dev.com
